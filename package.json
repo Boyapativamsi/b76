@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Boyapativamsi.github.io/7/",
+    "homepage": "https://Boyapativamsi.github.io/b76/",
     "scripts": {
         "dev": "vite",
         "predeploy": "npm run build",
